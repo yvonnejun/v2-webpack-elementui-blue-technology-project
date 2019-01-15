@@ -89,7 +89,7 @@ export default {
   background-size: 100%;
   background-repeat: no-repeat;
   background-position-y: bottom;
-  min-height: 400px;
+  min-height: 768px;
   .el-menu-item { // 这是侧边栏li子元素的样式
     font-size: 14px;
     // color: #fff;
